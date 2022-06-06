@@ -1,0 +1,1 @@
+dapr run --app-id service-b --dapr-http-port 4200 --app-port 8200 --dapr-grpc-port 60002 --components-path components/
